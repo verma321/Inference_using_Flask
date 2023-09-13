@@ -2,8 +2,8 @@
     "version": 2,
     "builds": [
         {
-            "src": "*.py",
-            "use": "@verma123/now-flask"
+            "src": "*.py"
+            
         }
     ],
     "routes": [
